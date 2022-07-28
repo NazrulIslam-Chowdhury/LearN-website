@@ -5,3 +5,13 @@
 .star-color {
     color: gold;
 }
+
+@media only screen and (max-width:688px) {
+    .img-size {
+        width: 100%;
+    }
+
+    .carousel-padding {
+        margin-top: 70%;
+    }
+}
