@@ -1,3 +1,7 @@
 .background-effect {
     filter: brightness(55%);
 }
+
+.star-color {
+    color: gold;
+}
